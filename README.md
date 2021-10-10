@@ -1,4 +1,4 @@
-## Inspirante Technologies Task
+## Inspirante Technologies Task (Frontend only)
 
 - Source Code: https://tinyurl.com/azavum3u
 - Website live preview: https://tinyurl.com/inspirantetech 
