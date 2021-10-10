@@ -446,6 +446,7 @@ footer h1 {
 .training-details h1 {
      font-size: 50px;
      letter-spacing: 1px;
+     margin: 0;
    }
 .training-details p {
      font-size: large;
