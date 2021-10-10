@@ -1,7 +1,8 @@
 ## Inspirante Technologies Task
 
-Source Code:
-Website live preview: 
+- Source Code: https://tinyurl.com/azavum3u
+- Website live preview: https://tinyurl.com/inspirantetech 
+- Training page: https://tinyurl.com/usyy562d (or) click PROJECTS button
 
 ### Assets used
 - Logos: https://www.logo.wine
